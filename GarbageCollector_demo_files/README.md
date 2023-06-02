@@ -1,0 +1,1 @@
+These are the files used for the GarbageCollector project of my 8th Semester at ECAM LaSalle.
